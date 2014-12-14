@@ -37,5 +37,5 @@ Includes:
  sudo fig run masscan
  ```
 ### NOTE: Be careful with the destination network scanning params: masscan can mess up switches, firewalls and any other network element you can think of because of its speed. I recomend using a low packet rate. 
-### DISCLAIMER Don't come back to me if you get abuse reports, your ISP angry or any of that shit. Anything you do with it's your business. 
+### DISCLAIMER Don't come back to me if you get abuse reports, your ISP angry or any of that shit. Anything you do with it it's your own business. 
 ### Happy learning! :)
